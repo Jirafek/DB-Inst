@@ -1,14 +1,8 @@
 {
 
-    "titles": [
-        {
-            "id": 1,
-            "text": "dobro"
-        },
-        {
-            "id": 2,
-            "text": "bober"
-        }
-    ]
+    "main": {
+        "title": "Anon Stories Online - Home",
+        "head": "Anonymous Instagram Story Viewer - Anon Stories Online"
+    }
 
 }
