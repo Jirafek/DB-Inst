@@ -3,6 +3,24 @@
     "main": {
         "title": "Anon Stories Online - Home",
         "head": "Anonymous /Instagram/ Story Viewer"
-    }
+    },
+    "faq": [
+        {
+            "title": "What can be downloaded and viewed using the service insta-stories-viewer.com (ig story viewer)?",
+            "text": "Using the functions of the service, any user can download and watch anonymously Instagram stories, highlights, streams (live broadcasts), publications and photos from a profile that is open (is public) on Instagram. All of the listed content can be downloaded to your device using special interface elements."
+        },
+        {
+            "title": "What can be downloaded and viewed using the service insta-stories-viewer.com (ig story viewer)?",
+            "text": "Using the functions of the service, any user can download and watch anonymously Instagram stories, highlights, streams (live broadcasts), publications and photos from a profile that is open (is public) on Instagram. All of the listed content can be downloaded to your device using special interface elements."
+        },
+        {
+            "title": "What can be downloaded and viewed using the service insta-stories-viewer.com (ig story viewer)?",
+            "text": "Using the functions of the service, any user can download and watch anonymously Instagram stories, highlights, streams (live broadcasts), publications and photos from a profile that is open (is public) on Instagram. All of the listed content can be downloaded to your device using special interface elements."
+        },
+        {
+            "title": "What can be downloaded and viewed using the service insta-stories-viewer.com (ig story viewer)?",
+            "text": "Using the functions of the service, any user can download and watch anonymously Instagram stories, highlights, streams (live broadcasts), publications and photos from a profile that is open (is public) on Instagram. All of the listed content can be downloaded to your device using special interface elements."
+        }
+    ]
 
 }
